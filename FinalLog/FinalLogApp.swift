@@ -9,12 +9,17 @@ import SwiftUI
 
 @main
 struct FinalLogApp: App {
+    
+    @State private var log = Dailylog.sampleData
     let persistenceController = PersistenceController.shared
 
     var body: some Scene {
         WindowGroup {
-            ContentView()
-                .environment(\.managedObjectContext, persistenceController.container.viewContext)
+            NavigationView {
+                HomePage(logs: $log)
+               
+               
+            }
         }
     }
 }

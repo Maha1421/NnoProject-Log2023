@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8F646A49-69E2-41FF-A61F-5944B2C07B95"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9E345FD8-2C75-4A0E-A79A-310EFDDB5344"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FinalLog/Dailylog.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "Dailylog"
+            landmarkType = "21">
+            <Locations>
+               <Location
+                  uuid = "9E345FD8-2C75-4A0E-A79A-310EFDDB5344 - 8ff4a7675a3e22ee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "one-time initialization function for sampleData"
+                  moduleName = "FinalLog"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maha/Downloads/FinalLog-3-4/FinalLog/Dailylog.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "404">
+               </Location>
+               <Location
+                  uuid = "9E345FD8-2C75-4A0E-A79A-310EFDDB5344 - 478aa5bcc2d1c51b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FinalLog.Dailylog.sampleData.unsafeMutableAddressor : Swift.Array&lt;FinalLog.Dailylog&gt;"
+                  moduleName = "FinalLog"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maha/Downloads/FinalLog-3-4/FinalLog/Dailylog.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
