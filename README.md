@@ -41,9 +41,10 @@ It is an application that helps you write down your notes, ideas and lists with 
 ##  Developers
 
 _Maha Saleh Alghamdi_
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/maha-alghamdi-493304235)
+Click [here](https://www.linkedin.com/in/maha-alghamdi-493304235) to go to my Linkedin profile. 
 _Afnan Almutairi_
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/afnan-al-mutairi-948b661bb)
+Click [here](https://www.linkedin.com/in/afnan-al-mutairi-948b661bb) to go to my Linkedin profile. 
+
 
 
 
